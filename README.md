@@ -1,7 +1,5 @@
-Hi, I'm Camila Paris 👋
+<h3>Hi, I'm Camila Paris 👋</h3>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 📫 How to reach me camilinhaparis@hotmail.com
 
 ##

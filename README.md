@@ -1,4 +1,4 @@
-<h3>Hi, I'm Camila Paris 👋</h3>
+<h3>Hi, I'm Camila Parise 👋</h3>
 
 - 📫 How to reach me camilinhaparis@hotmail.com
 
